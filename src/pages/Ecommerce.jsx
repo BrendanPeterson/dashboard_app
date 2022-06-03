@@ -52,7 +52,7 @@ const ECommerce = () => {
                 {item.title}
               </p>
             </div>
-          ))};
+          ))}
         </div>
       </div>
 
